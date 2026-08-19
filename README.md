@@ -15,16 +15,6 @@ Outside of work I build self-hosted, privacy-first tools and real-time web apps.
 - **Data and reporting** — moving reporting workloads onto columnar stores, and building the metrics teams actually make decisions on.
 - **TypeScript and Python**, NestJS and Node, DynamoDB, ClickHouse, AWS.
 
-### Selected personal projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **[Nook Photos](https://github.com/Aaditya188/nook-photos)** | Self-hosted, AI-powered Google Photos alternative — semantic search, face recognition, private by default. | `TypeScript` · `React Native` · `Fastify` · `ONNX` |
-| **[Collab-IDE](https://github.com/Aaditya188/Collab-IDE)** | Real-time collaborative IDE with live code execution, built for competitive programming. | `TypeScript` · `WebSockets` |
-| **[WeSign](https://github.com/Aaditya188/WeSign)** | In-browser sign-language detection — inference on-device, no server round-trips. | `Next.js` · `TensorFlow.js` |
-| **[Music Visualizer](https://github.com/Aaditya188/Music-Visualizer)** | 3D music visualization driven by the Web Audio API. | `Three.js` · `WebGL` |
-| **[Astronomia Beats](https://github.com/Aaditya188/Astronomia-Web)** | Feature-rich Discord music bot with a web invite portal. | `JavaScript` · `Flask` · `Discord` |
-
 ### Toolbox
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
