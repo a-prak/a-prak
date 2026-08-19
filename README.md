@@ -1,6 +1,6 @@
 # Aaditya Prakash
 
-Product engineer at [Richpanel](https://www.richpanel.com), building the systems behind an AI-powered customer support platform — usage-based billing and metering, AI infrastructure, and the analytics pipelines that report on all of it.
+Senior Software Engineer at [Richpanel](https://www.richpanel.com), building the systems behind an AI-powered customer support platform — usage-based billing and metering, AI infrastructure, and the analytics pipelines that report on all of it.
 
 Outside of work I build self-hosted, privacy-first tools and real-time web apps. Most of that lives on my personal account, [@Aaditya188](https://github.com/Aaditya188).
 
